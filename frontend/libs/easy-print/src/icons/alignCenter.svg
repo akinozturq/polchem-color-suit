@@ -1,0 +1,1 @@
+export default "data:image/svg+xml,%3csvg%20xmlns='http://www.w3.org/2000/svg'%20focusable='false'%20viewBox='0%200%2024%2024'%20aria-hidden='true'%3e%3cpath%20d='M8%2019h3v4h2v-4h3l-4-4-4%204zm8-14h-3V1h-2v4H8l4%204%204-4zM4%2011v2h16v-2H4z'%3e%3c/path%3e%3c/svg%3e"

@@ -1,0 +1,26 @@
+PROPRIETARY AND CONFIDENTIAL
+Copyright (c) 2026 Aypol Boya Kimya Sanayi A.Ş. / Polchem. All rights reserved.
+
+NOTICE:
+This software, source code, data schemas, mathematical formulation engines,
+and related documentation (collectively, the "Software") are the confidential,
+proprietary, and trade secret information of Aypol Boya Kimya Sanayi A.Ş. ("Polchem").
+
+1. RESTRICTIONS
+Unauthorized copying, duplication, reverse engineering, decompilation, distribution,
+sublicensing, public display, or transmission of this Software, via any medium,
+is strictly prohibited without prior written consent from an authorized officer of Polchem.
+
+2. COMMERCIAL AND FORMULATION DATA
+Any production formulations, spectral reflectance data, colorant characterization
+matrices (K/S curves), pricing models, customer databases, or proprietary resin
+parameters associated with this Software are protected trade secrets.
+Demonstration scripts included in the repository contain solely synthetic/procedural
+curves generated for validation and test purposes and do not represent actual factory secrets.
+
+3. DISCLAIMER OF WARRANTIES
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
+INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A
+PARTICULAR PURPOSE, AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT
+HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM OR IN
+CONNECTION WITH THE SOFTWARE OR ITS USE.

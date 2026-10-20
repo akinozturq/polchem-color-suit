@@ -1,0 +1,51 @@
+{
+  "name": "polchem-color-suit-frontend",
+  "version": "4.2026.1",
+  "private": true,
+  "description": "Polchem Color Suit POS & LAB Unified Frontend Client",
+  "scripts": {
+    "dev": "vite --port 3000",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-svg-core": "^6.5.1",
+    "@fortawesome/free-regular-svg-icons": "^6.5.1",
+    "@fortawesome/free-solid-svg-icons": "^6.5.1",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^1.6.7",
+    "axios-cache-adapter": "^2.7.3",
+    "bootstrap": "^4.6.2",
+    "bwip-js": "^4.3.0",
+    "classnames": "^2.5.1",
+    "connected-react-router": "^6.9.3",
+    "history": "^4.10.1",
+    "i18next": "^23.10.0",
+    "i18next-http-backend": "^2.5.0",
+    "jsonrpc-dispatch": "^1.0.2",
+    "lodash": "^4.17.21",
+    "moment": "^2.30.1",
+    "prop-types": "^15.8.1",
+    "react": "^18.2.0",
+    "react-bootstrap": "^1.6.8",
+    "react-dom": "^18.2.0",
+    "react-i18next": "^14.0.5",
+    "react-redux": "^8.1.3",
+    "react-router": "^5.3.4",
+    "react-router-dom": "^5.3.4",
+    "react-select": "^5.8.0",
+    "react-virtualized": "^9.22.5",
+    "redux": "^4.2.1",
+    "redux-saga": "^1.3.0",
+    "reselect": "^4.1.8",
+    "socket.io-client": "^4.7.4"
+  },
+  "devDependencies": {
+    "@types/react": "^18.2.60",
+    "@types/react-dom": "^18.2.19",
+    "@vitejs/plugin-react": "^4.2.1",
+    "sass": "^1.71.1",
+    "typescript": "^5.3.3",
+    "vite": "^5.1.4"
+  }
+}

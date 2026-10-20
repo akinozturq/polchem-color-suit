@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="2000" height="102" viewBox="0 0 2000 102">
+  <defs>
+    <linearGradient id="bgGrad" x1="0" y1="51" x2="1024" y2="51" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ffffff"/>
+      <stop offset="0.58" stop-color="#ffffff"/>
+      <stop offset="1" stop-color="#0d68af"/>
+    </linearGradient>
+    <linearGradient id="txtGrad" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#1e2d7d"/>
+      <stop offset="0.6" stop-color="#0d68af"/>
+      <stop offset="1" stop-color="#1982c4"/>
+    </linearGradient>
+  </defs>
+  <rect x="941" y="0" width="1059" height="102" fill="#0D68AF"/>
+  <rect x="0" y="0" width="1024" height="102" fill="url(#bgGrad)"/>
+  <rect x="0" y="0" width="2000" height="9" fill="#BB0516"/>
+  <rect x="0" y="17.7" width="8.7" height="8.7" fill="#2D3787"/>
+  <rect x="0" y="28.9" width="8.7" height="8.7" fill="#0D68AF"/>
+  <rect x="0" y="40.0" width="8.7" height="8.7" fill="#5EA24D"/>
+  <rect x="0" y="62.3" width="8.7" height="8.7" fill="#F6DB78"/>
+  <rect x="0" y="84.6" width="8.7" height="8.7" fill="#BB0516"/>
+  <text x="26" y="66" font-family="'Segoe UI', Arial, sans-serif" font-weight="800" font-size="38" fill="url(#txtGrad)" letter-spacing="-0.5">POLCHEM</text>
+  <text x="218" y="66" font-family="'Segoe UI', Arial, sans-serif" font-weight="600" font-size="28" fill="#0D68AF" letter-spacing="0.5">Color Suit</text>
+</svg>

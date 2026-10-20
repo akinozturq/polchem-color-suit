@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="98" height="98" viewBox="0 0 98 98">
+  <rect x="2" y="2" width="94" height="94" rx="14" fill="#ffffff" stroke="#355bb2" stroke-width="4"/>
+  <text x="14" y="68" font-family="'Segoe UI', Arial, sans-serif" font-weight="900" font-size="56" fill="#355bb2">P</text>
+  <g transform="translate(52, 16)">
+    <rect x="0" y="0" width="11" height="11" fill="#49a8e3"/>
+    <rect x="14" y="0" width="11" height="11" fill="#49a8e3"/>
+    <rect x="0" y="13" width="11" height="11" fill="#3770c0"/>
+    <rect x="14" y="13" width="11" height="11" fill="#3770c0"/>
+    <rect x="0" y="26" width="11" height="11" fill="#3ab54e"/>
+    <rect x="14" y="26" width="11" height="11" fill="#3ab54e"/>
+    <rect x="0" y="39" width="11" height="11" fill="#fcdb5f"/>
+    <rect x="14" y="39" width="11" height="11" fill="#fcdb5f"/>
+    <rect x="0" y="52" width="11" height="11" fill="#e6272a"/>
+    <rect x="14" y="52" width="11" height="11" fill="#f89b42"/>
+  </g>
+</svg>
